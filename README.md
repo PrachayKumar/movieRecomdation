@@ -1,2 +1,5 @@
-# movieRecomdation
-this is the basic movie recommendation based on a open source datasets 
+#Movie Recommendation System
+
+Overview
+
+This project is a movie recommendation application developed using open-source datasets. It utilizes machine learning techniques to provide personalized movie recommendations based on user preferences.
